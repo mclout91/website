@@ -1,5 +1,5 @@
 # Setup
-title: Dark Poole
+title: Michael Clouting
 url: https://getpoole.com
 paginate: 1
 baseurl: ""
@@ -32,9 +32,9 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  name: Michael Clouting
+  url: https://twitter.com/mclout91
+  email: macclouting@gmail.com
 
 # Custom vars
 version: 3.0.0
@@ -43,6 +43,5 @@ version: 3.0.0
 nav:
   - title: Blog
     url: /archive
-
   - title: About
     url: /about
